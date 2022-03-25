@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "learn express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamkadamNabil/Apprendre_NodeJS.git"
+  },
+  "author": "nabil lamkadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LamkadamNabil/Apprendre_NodeJS/issues"
+  },
+  "homepage": "https://github.com/LamkadamNabil/Apprendre_NodeJS#readme",
+  "keywords": []
+}

@@ -1,0 +1,28 @@
+const productSchema =new mongoose.Schema({
+    name :
+    {
+        type:String,
+        trim :true,
+        require :true,
+        maxlength:150
+
+    },
+    description :
+    {
+        type:String,
+        trim :true,
+        require :true,
+        maxlength:2000
+
+    },
+    price :
+    {
+        type:Number,
+        require :true,
+    },
+    quantity :
+    {
+        type:Number,
+    },
+
+},{timestamps:true})
